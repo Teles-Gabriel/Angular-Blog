@@ -1,0 +1,3 @@
+[submodule "Angular-Blog"]
+    path = Angular-Blog
+    url = https://github.com/Teles-Gabriel/Angular-Blog.git
